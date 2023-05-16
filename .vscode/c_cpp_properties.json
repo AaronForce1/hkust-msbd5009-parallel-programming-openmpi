@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${HOME}/opt/usr/local/include",
+                "${HOME}/Downloads/openmpi-4.1.5/ompi/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "${HOME}/opt/usr/local/bin/mpicc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
